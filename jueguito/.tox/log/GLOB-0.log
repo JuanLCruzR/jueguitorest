@@ -1,5 +1,5 @@
 action: GLOB, msg: packaging
-cwd: /home/dannielxdx/Documentos/Erona/DjangoPractica/djangopruebas/proyectoEquipoRest/jueguito
+cwd: /home/dannielxdx/Documentos/Erona/DjangoPractica/jueguitorest/jueguito
 cmd: /home/dannielxdx/.virtualenvs/djangotest/bin/python setup.py sdist --formats=zip --dist-dir .tox/dist
 /home/dannielxdx/.virtualenvs/djangotest/lib/python3.9/site-packages/setuptools/dist.py:487: UserWarning: Normalizing '0.0.0a' to '0.0.0a0'
   warnings.warn(tmpl.format(**locals()))
