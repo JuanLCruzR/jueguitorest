@@ -1,0 +1,10 @@
+setup.py
+jueguito/__init__.py
+jueguito/asgi.py
+jueguito/settings.py
+jueguito/urls.py
+jueguito/wsgi.py
+jueguito.egg-info/PKG-INFO
+jueguito.egg-info/SOURCES.txt
+jueguito.egg-info/dependency_links.txt
+jueguito.egg-info/top_level.txt
